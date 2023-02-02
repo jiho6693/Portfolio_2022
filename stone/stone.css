@@ -1,0 +1,32 @@
+
+
+
+
+#info{
+    padding-right: 30vw;
+    padding-left:5vw;
+    
+    text-align: left;
+    font-size: 1.0vw;
+    font-family: Apple SD Gothic Neo;
+    font-style: normal;
+        font-weight: normal;
+    color: rgba(112,112,112,1);
+  }
+
+#text{
+    padding-right: 30vw;
+    padding-left:8vw;
+    
+    text-align: left;
+    font-size: 1.2vw;
+    font-family: Apple SD Gothic Neo;
+    font-style: normal;
+        font-weight: normal;
+    color: rgba(112,112,112,1);
+    
+  }
+
+.video{
+  text-align: center;
+}  

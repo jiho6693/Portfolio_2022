@@ -1,0 +1,44 @@
+
+hr{
+background: rgb(255, 5, 130);
+border: 0;
+height: 3px;
+display: block;
+margin-bottom: 0.5rem;
+margin-top:0.5rem;
+}
+
+.content {
+	font-size: 2rem;
+	font-weight: 400;
+	color: rgb(255, 5, 130);
+	font-family: "Happy Times at the IKOB";
+	font-style: normal;
+    text-align: left ;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    
+    
+    
+   
+
+}
+
+a{
+    padding-left: 10rem;
+}
+
+
+a:link { 
+    text-decoration: none; 
+}
+a:visited { 
+    color: rgb(255, 5, 130); 
+    text-decoration: none; 
+}
+a:hover { 
+    text-decoration: none; 
+}
+a:active { 
+    text-decoration: none; 
+}
